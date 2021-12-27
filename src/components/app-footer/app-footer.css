@@ -1,0 +1,51 @@
+.app-footer {
+  width: 355px;
+  height: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.app-footer ul {
+  margin: 0;
+  margin-bottom: 31px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 355px;
+}
+
+.app-footer button {
+  padding: 0;
+  border: 0;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
+
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.app-footer button:hover {
+  cursor: pointer;
+  border-bottom: 1px solid black;
+}
+
+.beansLogo {
+  margin: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,48 @@
+.app-goods-about {
+  display: flex;
+  margin-top: 45px;
+  margin-left: 339px;
+  margin-right: 348px;
+  justify-content: space-between;
+  font-family: 'Merienda';
+  color: #000000;
+}
+
+.cupOfCofee {
+  top: 70px;
+  filter: drop-shadow(5px 5px 30px rgba(0, 0, 0, 0.25));
+}
+
+.app-goods-about h2{
+  margin-top: 35px;
+  margin-bottom: 10px;
+  margin-left: 110px;
+  font-size: 24px;
+  line-height: 35px;
+}
+
+.app-goods-about p {
+  margin: 0;
+  
+  text-align: center;
+  width: 400px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.beansLogo {
+  margin-left: 110px;
+  margin-bottom: 20px;
+}
+
+.line img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: 30px;
+}
+
