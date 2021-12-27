@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fccbdff.css",
+    "main.js": "/static/js/main.efb4badb.js",
+    "static/media/lavazza.png": "/static/media/lavazza.c054a46d47ae4c6272f7.png",
+    "static/media/app-header-img.jpg": "/static/media/app-header-img.ef2455d9e03f41d5a1fb.jpg",
+    "static/media/jardin.jpg": "/static/media/jardin.20c5435d83549948584d.jpg",
+    "static/media/carraro.png": "/static/media/carraro.f6c42d46fb93eecc2737.png",
+    "static/media/julius meinl.jpg": "/static/media/julius meinl.963203198ec824a10017.jpg",
+    "static/media/nescafe.jpg": "/static/media/nescafe.badbddbfa06c133f9244.jpg",
+    "static/media/cup_of_coffee.png": "/static/media/cup_of_coffee.d41239d9897fb0fc06a8.png",
+    "static/media/paulig.jpg": "/static/media/paulig.89c6198143a01ea92b4e.jpg",
+    "static/media/coffee-logo.svg": "/static/media/coffee-logo.58c2b7686886f6ff7bf79f236518aacd.svg",
+    "static/media/logo.svg": "/static/media/logo.6eea0b3279a242a44dd58c2ebddd1db3.svg",
+    "static/media/Beans logo.svg": "/static/media/Beans logo.eb5366d1cf955c895b114eec41bedd89.svg",
+    "static/media/beans-logo.svg": "/static/media/beans-logo.20576ca73b1905ef06e578f721b1fe52.svg",
+    "index.html": "/index.html",
+    "static/media/Line.svg": "/static/media/Line.43c03af74b17f60a06b06f4b8bf23446.svg",
+    "main.2fccbdff.css.map": "/static/css/main.2fccbdff.css.map",
+    "main.efb4badb.js.map": "/static/js/main.efb4badb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fccbdff.css",
+    "static/js/main.efb4badb.js"
+  ]
+}
